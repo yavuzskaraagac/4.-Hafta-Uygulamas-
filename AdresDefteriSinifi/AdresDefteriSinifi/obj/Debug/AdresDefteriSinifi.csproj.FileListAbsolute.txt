@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\4.HaftaÖdev\AdresDefteriSinifi\AdresDefteriSinifi\bin\Debug\AdresDefteriSinifi.exe.config
+C:\Users\yavuz\Source\Repos\4.HaftaÖdev\AdresDefteriSinifi\AdresDefteriSinifi\bin\Debug\AdresDefteriSinifi.exe
+C:\Users\yavuz\Source\Repos\4.HaftaÖdev\AdresDefteriSinifi\AdresDefteriSinifi\bin\Debug\AdresDefteriSinifi.pdb
+C:\Users\yavuz\Source\Repos\4.HaftaÖdev\AdresDefteriSinifi\AdresDefteriSinifi\obj\Debug\AdresDefteriSinifi.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\4.HaftaÖdev\AdresDefteriSinifi\AdresDefteriSinifi\obj\Debug\AdresDefteriSinifi.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\4.HaftaÖdev\AdresDefteriSinifi\AdresDefteriSinifi\obj\Debug\AdresDefteriSinifi.exe
+C:\Users\yavuz\Source\Repos\4.HaftaÖdev\AdresDefteriSinifi\AdresDefteriSinifi\obj\Debug\AdresDefteriSinifi.pdb
